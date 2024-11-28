@@ -3,4 +3,8 @@ div{
 }
 h1{
      font-family: "Anton", sans-serif;
+    font-size:50px;
+}
+p{
+    font-size:32px;
 }
